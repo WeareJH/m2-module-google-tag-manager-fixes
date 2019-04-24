@@ -1,0 +1,16 @@
+{
+  "name": "wearejh/m2-module-google-tag-manager-fixes",
+  "description": "Jh Google Tag Manager Fixes M2 Module",
+  "require": {
+    "php": "^7.0"
+  },
+  "type": "magento2-module",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Jh\\GoogleTagManagerFixes\\": ""
+    }
+  }
+}
