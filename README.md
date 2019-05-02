@@ -1,7 +1,5 @@
 # m2-module-google-tag-manager-fixes
 
-# JH Block Logger
-
 ## Installation
 This module is installable via `Composer`.
 
