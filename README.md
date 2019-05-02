@@ -1,5 +1,7 @@
 # m2-module-google-tag-manager-fixes
 
+This is provided as a fix for https://github.com/magento/magento2/issues/18536
+
 ## Installation
 This module is installable via `Composer`.
 
